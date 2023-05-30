@@ -1,0 +1,390 @@
+VMName,vCenter Name,Service Account used,Result
+Windows2019,na,na,virtual Machine not Found
+dso-rhel86template,na,na,virtual Machine not Found
+dso-rhel87template,na,na,virtual Machine not Found
+dso-rhel79template,na,na,virtual Machine not Found
+dso-rhel84template,na,na,virtual Machine not Found
+RHEL71_template,na,na,virtual Machine not Found
+RHEL76_template,na,na,virtual Machine not Found
+dso-rhel76template,na,na,virtual Machine not Found
+dso-rhel78template,na,na,virtual Machine not Found
+dso-rhel82template,na,na,virtual Machine not Found
+Windows2019_PREV.May162023,na,na,virtual Machine not Found
+Windows2016,na,na,virtual Machine not Found
+Windows2016_NotJoinDomain,na,na,virtual Machine not Found
+Windows2016_BeforeAugPatching,na,na,virtual Machine not Found
+Windows2019_NotJoinDomain,na,na,virtual Machine not Found
+Windows2019,na,na,virtual Machine not Found
+dso-rhel76template,na,na,virtual Machine not Found
+dso-rhel86template,na,na,virtual Machine not Found
+RHEL76_template,na,na,virtual Machine not Found
+RHEL71_template,na,na,virtual Machine not Found
+dso-rhel87template,na,na,virtual Machine not Found
+dso-rhel79template,na,na,virtual Machine not Found
+dso-rhel84template,na,na,virtual Machine not Found
+Windows2019_PREV.May162023,na,na,virtual Machine not Found
+Windows2016,na,na,virtual Machine not Found
+dso-rhel82template,na,na,virtual Machine not Found
+dso-rhel78template,na,na,virtual Machine not Found
+Windows2016_NotJoinDomain,na,na,virtual Machine not Found
+Windows2019_NotJoinDomain,na,na,virtual Machine not Found
+Windows2016_BeforeAugPatching,na,na,virtual Machine not Found
+n0469l0125n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0251p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0095n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469a002p-cfm,https://n0469a001p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+N0469L0298N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0270P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0272P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0276N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0306p,https://n0469a001p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+n0469l0130n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0246N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0271P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0283N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0299N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+VA1-vCloudUsageMeter-4,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469a001p-cfm,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469a0001-vro,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0044P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0033P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0032P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w012p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0037P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0002P-EXC,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-EXC,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0031P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0045P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0040P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0043P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w011p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0001p-atn,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0016p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,https://n0469a001p-vcsa.clarios.com:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+N0469W0023P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0003p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w009p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0042P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w010p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0038P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0015p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0034P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0018p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0002p-atn,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w008p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0036P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0002p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0039P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0017p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w013p,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0035P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0030P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0022P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0046P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469A001P-VCSA,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0273N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0274N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+dso-rhel78template_got_issues,https://n0469a001p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+DSO_Windows2019,https://n0469a001p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+RHEL76_template_EFI,https://n0469a001p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+n0469l0060n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0011n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0025p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0039n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0030p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0108n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0018n--PMC-VBK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0054p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0055p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0078p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0019n-PMC-VIK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0086n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0023n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0045n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0018p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0069p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0113n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0012p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0073n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0075p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0035p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0027p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0015n-PMC-VBK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0056p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0034p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0080p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0051n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0026n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0021p-PMC-VIP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0077p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0048p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0019p-PMC-VJP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0031p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0013p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0062p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0077n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0011p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0031n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0017p-PMC-VIP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0051p-PMC-BMP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0083n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0063p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0021n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0037p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0079p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0047p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0033p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0052p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0017n-PMC-VJK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0045p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0040p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0032p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0016p-PMC-VJP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0131n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0010p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0041N,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0088n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0007p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0072p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0024p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0150n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0061p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0057p-PMC-BRP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0076p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0064p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0058n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0029p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0071p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0053p-PMC-BMP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0028p-PMC-VBP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0036p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0020p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0044p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0140n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0026p-PMC-VBP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0043p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0043n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0060p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0023p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0041n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0047n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0132n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0066n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0016n-PMC-VIK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0090n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0075n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0068n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0058p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0059p-PMC-BRP,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0070n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0041p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0042p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0046p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0053n,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0020n-PMC-VJK,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSO_Windows2019_old,https://n0469a001p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+DSO_Windows2019_BeforeAugPatching,https://n0469a001p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Windows2019_BeforeAugPatching,https://n0469a001p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZN0469L0055N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Authentication Passed
+ZZN0469L0056N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Authentication Passed
+ZZN0469L0060N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Authentication Passed
+N0469L0268P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0269P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0259P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0246p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0262P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0245p,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0278N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0261P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0248P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0256N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0270N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0254P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0241N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ZZN0469L0061N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Authentication Passed
+N0469L0247P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0275P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0260P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0255P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0269N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0256P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0282N,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0253P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0252P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0244P,https://n0469a001p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0001P-APP,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0048P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0021P,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0043N,https://n0469a001p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,A general system error occurred: vix error codes = 
+N0469A0031P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0032P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0274P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0273P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0002N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0002P-ESRS.clarios.com,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0003P-VCSA,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0030P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0033P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0003P-IAM,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0004P-IAM,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0003n-atn,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0012n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-AAD,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-DDM,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0022n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0021n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-STO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0020n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0019n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+Windows2012R2,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+VMware vRealize Log Insight,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+VxRail Manager,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+VMware vCenter Server Appliance,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469A0001P-ESRS,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w0026n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0025n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0024n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0003P-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-KMS,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-PKI DO NOT POWER ON,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+n0469l0067n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0084n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0044n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0021p-sat,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0076n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0092n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0002P-PKI,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469L0152N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0001P-DSO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0071n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0002P-MON,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0074n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0003N-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001P-NBU,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0061n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0036n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0004P-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0002N-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0048n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0003P-PKI,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0004N-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0109n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0001P-MON,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0003P-DSO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0072n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0037n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0001P-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0004P-DSO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0002P-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0001p-jmp,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0005P-DSO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0089n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0001P-IAM,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0094n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0057n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469a0073p,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0069n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0032n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0087n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0126n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0022p-dso,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0004P-PKI,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0002P-DSO,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0001N-FLX,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0002P-IAM,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0059n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0118n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0085n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0035n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0023p-dso,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0004P-MON,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469a001p-cfm - DO NOT POWER ON,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+N0469W0003P-MON,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0091n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w0002n-atn,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0004n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469L0265N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w0002n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0119n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0005N-JMP,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0005n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469w0001n-atn,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469L0259N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w0009n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0006N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+n0469l0124n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0142n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0096n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469w0001n,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469L0264N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0257N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0002P-TSS,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+Windows2019_Old_BeforeAugPatching,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Windows2012R2_New,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+N0469L0310P,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+N0469L0309P,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+n0469l0054n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0014n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0116n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0266N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0029n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0253N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0028n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0052n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0251N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0027n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0038n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0254N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0276P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0102n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0024n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0101n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0033n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0313N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0010n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0022n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0097N-RETIRED05252023-185204,https://n0469a0002p-vcsa.clarios.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+n0469l0046n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0025n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0267N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0263P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469a0273n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0082n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0249N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0252N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0042n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0278P,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0013n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469L0310N,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+n0469l0040n,https://n0469a0002p-vcsa.clarios.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0036N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0050N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0057P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0054N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0032N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0077P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0056N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0057N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0063N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0072P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0029N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0074P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0071P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0059N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0076P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0030N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0056P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0027N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0058N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0055P-RETIRED02222023-193541,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0055N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Failed to authenticate with the guest operating system using the supplied credentials. 
+N0469W0051N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0059P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0049N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0073P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0075P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0058P,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0060N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0054P-RETIRED02222023-192728,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0028N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0031N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
+N0469W0033N,https://n0469a0002p-vcsa.clarios.com:443/sdk,ap_svc_dsolclsa@clarios.com,Authentication Passed
