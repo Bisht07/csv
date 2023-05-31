@@ -1,0 +1,407 @@
+VMName,vCenter Name,Service Account used,Result
+AFTCTM1PROD,na,na,virtual Machine not Found
+DSOPRXYSG01,na,na,virtual Machine not Found
+DSOPRXYSG01,na,na,virtual Machine not Found
+Widows Server 2019 (Latest Jan 040123),na,na,virtual Machine not Found
+Windows Server 2016 (Latest Jan-040123),na,na,virtual Machine not Found
+Windows Server 2022 (Latest Jan-310123),na,na,virtual Machine not Found
+AFTCTM1PROD,na,na,virtual Machine not Found
+AFTCNFCDC2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCEXDC2202,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMRAD2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSTRMNX,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNEWERAJMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMPOLARION01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest1610,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCMISERMON01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMNOCQCDB02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMISERDR02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMR7SRV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ENMTESTFILE,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCGLBZTSO01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCEXDC2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+Win2022,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMDEVEX,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+DSOTESTVM01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMXENAPP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+VK1000_10_1_99_1T,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Error: Unknown Guest Family 
+AFTCMIDMCAGT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQLDSHBRD_1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCMTELEMDIT,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMBMCADDM,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSYMFACT02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSMFA05,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCFMSQLDEV01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSDUAA022,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSTMGMT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNUCAPKI01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMADSPLA,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDEVFS,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMIICSLIFT1P1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMCDF01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+TEST1132344,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCSEMPMGMT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMSARS022,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMINFOSECAGT02N,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMISERMON02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMNOCQCA02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEXTIWSSLD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNFCIWSSLD-oLD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMTRUSVR2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCNMHEXTZTSO03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest2210,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCMDEVEXSQL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZTESTNDC2016,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+zztest1910,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCMDEVIS,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMCARKRDS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNOCQCDB01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMISERDR01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMDLRCRM,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMRDSCAL2K19,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSYMFACT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCNFCDC2202,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest1210,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMDESKA-TEMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMDEVVS,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMGDRPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest2211,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMNOCQCA01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCNUVZTSO01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMHYPJUMP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMKACEMIDSRV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNFCIWSSLD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCGLBDZTSO04,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMFOPDC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMHYGIRIS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSOPHOS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+ACMINFOSECAGT02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMEXTTPKI03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest1611,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMARSSQL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGLNXTCPLM01_21March,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCMPAM01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+HYGLNXFTCVBKP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+zztest1211,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMDEVMES01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCHYZTSO02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMLMCADDM,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMTEST01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztest1911,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMSQL03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMIDMCFILET,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCINFOB2B,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+Template-FTC-W2K19-STD-Old,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+2019Template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+Template-NDC-W2K16-STD-Old,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Win2k22,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-WK22-STD-Old,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+TEMP_WIN10,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-W2K19-STDCopy-Old,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-W2K8R2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+DEVEXsql01-2012,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-W2K12-STD__OLD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Blank_Win2K12R2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+dlr1-internal-network-0,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygcldftcnsx01-cntrl3,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hyg-ftc-esg1-0,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hyg-ftc-esg2-1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygcldftcnsx01-cntrl2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ndc-test1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+dlr1-internal-network-1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygcldftcnsx01-cntrl1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hyg-ftc-esg2-0,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hyg-ftc-esg1-1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+CPMDEV01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMINFOSECAGP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYBAP01P,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AGMDEV02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYBAP02P,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMGLCAPKI,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYBAP01D,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMQLOGD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMMPCDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMMDMSQLD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMAUDAPP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYBAP02D,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMWINEVNCOL,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSMFA01_Do not power on,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMCG8APP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCTM1Client,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,undefined    VMTool status: guestToolsNotRunning 
+ACMGDCDEV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEXTTPKI02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMWOMTST2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+APMWHP01N,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMAMSQLP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+APMWHP02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMAMWEBP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+AFTCMGDPJUMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,https://hygcldftcvc01.dellcldmgmt.com:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+ACMHONP2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMTM1WD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ACMMPCUT,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMSDOC64,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMCG8DEV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNUCAPKI,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMSPS05,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMWGCAP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMCDVAPP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+Blank-Win2K12R2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTSQLDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ICI-HYG-FTC2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTWBDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ICI-HYG-FTC4,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTINVPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTSQLPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTarcdv1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ICI-HYG-FTC3,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTICCDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+test,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTWBVPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMOTARCPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMSHRGATE2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMSHRGATE1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMPURGTWYPRD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMAZRGTWYPRD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMAZRGTWYTST,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMAZRGTWYDEV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMW10HS,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSPW10,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+DSOVROCLT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+zztestdso01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+DSOCMAPUP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOPRXYPD02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGMOXPRXP02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOVROSRV01-Clone,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+HYGMOXPRXP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOCMAPUP02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOVROSRV01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOPRXYPD01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+DSOPRXYPD03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGFTCTESTTEMPLATE,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ZZRHELSH01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZRHEL8TEST8,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZ2023MARCH,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZW2K2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZWIN2019JMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ZZTEST2012DSO,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZWIN2022JMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ZZORACLELINUX7,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+DSOTESTSQL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZLINUX8,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZ2023MARNEW,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZRHEL8TEST1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZ2022DSOTEST,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZWIN2012R2JMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+LINUXCMATESTMAR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZUATWINDOWS2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+TEST1DEVWTC,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMTESTJMPDSO,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+TEST SERVER VK,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+ZZTESTJUMP2803,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+LINUX-TEST-CMA,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZLINUXNTT2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZ2023VAIB01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ZZTESTPUP003,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZTESTORACLE8,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZRHEL7TEST1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZTESTORACLE7A,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZTESTR204323,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZTESTDD2012,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZTESTPROD005,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZBBWIN1601,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZTESTJMP2022,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZLINUX9,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+AFTMDSOTSTJMP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZWIN2016JMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ZZDEV2022JMP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+DSOTESTING1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCM2019TST,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ZZWIN2016SH,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ZZAPPPUP001,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+ZZTESTAPR23,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+DSOTESTING02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+DSOSQLTEST01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNFCDC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMNFCDC02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGLNXECCD03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygftclnxtest01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLFSTACKAPP02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLFSTACKAPP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLNXTCPLM02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCLNKMGR02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+HYGFTCLNXREPO02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGFTCLNXNEXPOSE01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLNXECCD02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygftclnxoem,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGMDMIDQD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCLNKMGR01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+HYGLNXTCPLMWEB01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLNXMAPP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+aftcrshinydev,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLNXTCPLM01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGLNXTCPLMWEB02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMMON03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMMON02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMMON01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMWSUS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCLNPRXY02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGFTCESRS1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+AFTCLNPRXY01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygcldftcvr01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+hygcldftcsrm01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMSMFA04,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSMFA03,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSMFA01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSARS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMSMFA02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMPSRVDCMI,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMPSVRWIN1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMPSRV01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,undefined    VMTool status: guestToolsNotRunning 
+AFTCMVMCNVRTR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMPSRVMFA,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMP2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMPSRV02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+AFTCMSDJMPSRV01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMJMP2202,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMTM1WP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCICCDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMAUDITNEW,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMVRTFS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AGMMCONNP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMSSRPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMIDQDBP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMCDF02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMCGWEB,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+APMFLE02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMWEB01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMCG8PR2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGMDMHUBP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGIDQP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMPDC02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMSQL01A,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMFLTPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A specified parameter was not correct:  
+ACMINFOSECAGT,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEPOSQL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMAGILEDR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMIICSEASTP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMINFOSECAGP02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMBISQL1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGLNXESIEM01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Authentication Passed
+AFTCMSQL02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGMDMHUBDBQ1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMSALOO,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMHYCH,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+hyglnxcrwebprd01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMPSWMGR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMREVAL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMIIS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMREVAL,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ACMAMSQLC2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AMMPRODSQL02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMDESKA,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQL28,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEPOAH,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMFLOW2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCTM1TEST,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ACMWWRPI,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+AFTCRSHINYPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMCGAPP2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMCGMAIL,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCTM1WEB,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQLPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYPCMAP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGLNXECCD01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMNMHGEXTSTP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGIDQDBQ1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMWEB02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMTM1PR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQL01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMFLOW01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMMDMHUBDBP1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMBISQL2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMARCPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQL212,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMPCMSVR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMPWRBI,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+ACMWWRP2012,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDLRCRMDB,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCSQLDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMAMWEBC2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMWBVPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMQLOGP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMPDC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMWBVPR2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMCOGEP,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMGDCPRD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+ACMCGCUBE,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMINDYSOFT01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AMMPRODSQL,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMGDCQA1-old,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,A general system error occurred: vix error codes = 
+ACMBIGTWY,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMVVSVR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMGDCPRD01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMWOMPROD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMSALOO01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMWSSQL2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGMDMHUBQ1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMGDCQA1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCWBVDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMCOE01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMMPCPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMNAS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+NA9HYPCMDB,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDESKA,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMNETPRE,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMGBFTP2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSQLDSHBRD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCARCDV,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMICCPR,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMKARDEX01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AAMCOE02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMWWRPI01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+HYGIDQQ1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+HYGMDMHUBD1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMEXEC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMDVDBP2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMSQL06A,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AGMMCONND1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCRINLNXP01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+ACMOCALATE,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMINDYSOFT,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+ACMCGSQL2,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDC2201,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+hyglxjump01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMDC2205,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+hyglnxjump02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCLVSCANENG,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMPRTG01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDC02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMSDUAA01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMDC2203,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEXTDC02,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMPSWMGR01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMSAFEQ,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMDC2206,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+Nuvfil01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCLBMCADDM,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+AFTCMKMS01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMTRUSVR1,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDC2204,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMEXTDC01,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+AFTCMDC2202,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Authentication Passed
+Template-FTC-W2K12-STD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+AFTCMTSTDSO11,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-W2K22-STD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-W2K19-STD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Template-FTC-W2K16-STD,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Rhel7.9-02-03-2021,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+OracleLinux8-template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+RHEL-8-Template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+OracleLinux7-Template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+Ubuntu-20-template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+Ubuntu-22-Template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+Ubuntu-18-Template,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+Win2016-Plain,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,svc_dsolclsa@global.nmhg.corp,Failed to authenticate with the guest operating system using the supplied credentials. 
+Win2019-Plain,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Win2022-Plain,https://hygcldftcvc01.dellcldmgmt.com:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
