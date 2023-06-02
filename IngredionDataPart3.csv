@@ -1,0 +1,74 @@
+VMName,vCenter Name,Service Account used,Result
+BRSPOMAS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRMOGSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRMOGSNSAP02,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRMOGSTRUES02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSPROXYFSSO,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSJUMP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSQDB01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSDCAS11,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSRAP7COL,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSDCNA10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSIOTEDGE,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRMOGSSFCORE1,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+SUSETESTMOG,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Authentication Passed
+BRMOGSAP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SUSE15_MOGI_Template,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRMOGSWSUS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSNSAP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGRHSS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+brmogsqdb01_old not to use,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRMOGSSFCORE2,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRMOGSPOSDB,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOSAP02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSEM01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRMOGSSFCORE2_Old_do not power On,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRMOGSQL01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSSCCMDP,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSBKMST1,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,https://BRMOGVCSA02.as.globalad.local:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+BRSPOSSEPM02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+windows server 2016,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRMOGSTRUES01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSNUC01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+RiverbedWIN2019Template,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRMOGSAZGW1,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSPRXYFSSO1,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGVCSA02,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOWSUS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMOGSDT02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+WIN2019OS,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+PELIMSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PELIMSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRCABSEM01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+COCADF03,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COCALDBP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+COCALSEM01,https://BRMOGVCSA02.as.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+COCADF02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRALCSNSAP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Error: Unknown Guest Family 
+BRALCSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRALCSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRALCDHCP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRBALSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRBALSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRBALSNSAP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRCABSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRCABSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+WIN2019Template,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRSPOAPP05,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSPRXYFSSO1,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COMALSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Unable to communicate with the remote host since it is disconnected. 
+COMEDSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COSABSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COCRTSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COBOGSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+COCALSFS01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COCALSDCAS10,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COCAL-HIPATH4,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+COCALSDLP08,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+COCALSDMZ02,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+COCALMAIL01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+COCALSEM02,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+BRCABSAP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,,Error: Unknown Guest Family 
+COCALSNOMAPP01,https://BRMOGVCSA02.as.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
