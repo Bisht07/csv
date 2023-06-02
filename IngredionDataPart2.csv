@@ -1,0 +1,551 @@
+VMName,vCenter Name,Service Account used,Result
+USWSTDHC01,na,na,virtual Machine not Found
+Win_2019_Template_DON'T_USE,na,na,virtual Machine not Found
+USWSTDHC01,na,na,virtual Machine not Found
+granite_clone_usmossfs01,na,na,virtual Machine not Found
+MXPTLSTS01,na,na,virtual Machine not Found
+MXPTLSTS01,na,na,virtual Machine not Found
+granite_clone_usmossfs01,na,na,virtual Machine not Found
+dco-cbq03 (not on network),na,na,virtual Machine not Found
+dco-apps2-8 (not on network),na,na,virtual Machine not Found
+SUSE 15 SP3 Template,na,na,virtual Machine not Found
+WIN_2K8_TMP,na,na,virtual Machine not Found
+WIN_2K8_TMP,na,na,virtual Machine not Found
+cpnaldadm01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSDAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSLEAPNA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSLEAPNADB1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uslxnp03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSFS04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+cpnaldhub01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+cpnajrnl01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSDLP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+cpnaldapp01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+cpomtc06_do not power on,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSSECCAM,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+cpnamail01.us.cpo.com,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+Win_2019,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USWSTSBKMED02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSFS03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+cplnadm_restore_28Jan22,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+cpnalddir01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+cpnamail02.us.cpo.com,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+cplnadm_do not power on,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USMOSSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_CAMISSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_CAETOSDCNA11,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_GBMANSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USMAPSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_GBGOOSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_GBGOOSDCEM10,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USSALSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_MXPPASTS02,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_SIGDL02,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+SQLSERVERTEST1,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USCHASJUMP01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USIDFSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISAP01,https://uschisvctr01.na.globalad.local:443/sdk,root,Authentication Passed
+USBPASFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTHYDB03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+WIN_2016_Template_old,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+USCHISNUC07,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISVMBKP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSMC01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISACDBP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTRAP01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+WIN_2016_Template_CHICAGO,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISGSTEST,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+Win2K12_Template_Jan2020,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISAPPGBP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASTS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+uswstsdsnowna03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSADFS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+RHEL_8.2_Template,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+USCHISTHYCDEV01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSASPEN01_old,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISJUMP11,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsprint_new,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISTAN10,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSELNAPPP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstshpbsmc01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHIPenTest2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbnaap5,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiscourdev,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSCSIDBP,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISDLPSQL,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISACAPP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISROCTR01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSLOGMATE,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNUC04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTHYDB04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISBIGIP2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISBIGIP1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISPURECL01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschissso03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSINFOS07,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSCITRIX13,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISWSUS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SQLSERVERTEST,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+MXPTLDIA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+MXDTCSTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsxfer1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCIASPIAF,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschisvertexdbp,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSTKSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_USTULSDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHIPenTest1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXDTCSWEB02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISOME01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISPNKNA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSPGP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNEXMGMT01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISEDIGW,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSINFOS10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISACAPD,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstssecscan,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPSJSIA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHIPBCRPPRE1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNUC05,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uswstsdsnowna02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTAP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSINFOS06,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISRAP7ORCH,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschispapercut,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNA02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDASH,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTAN11,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISTHYDB01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbnaap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+CRIA-IAS1-8,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiscort01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISWIN10VM02,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISDLPEP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSASPEN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_USTULSPRINT01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+uschipbnaap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSCITRIX12,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNUC06,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISHZXDBP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP17,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CRIA-IIS1-8,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSELNDBP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSBARTN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP16,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPANOESX02,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+Win_2019_Template_CHICAGO_temp,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISRDNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISAPHORCH01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiscourprd,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTHYC02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISAP13,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISJUMP09,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISJUMP15,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Kali-Linux-2022.2-vmware-amd64,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+USCHISJUMP14,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRAMQ03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbnaap4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISVISIX,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSTHYCOTIC,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDENG02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPSJDIA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISAP12,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDLPMGMT,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPPPS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPPPS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNUC09,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSDBFIX01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiscord01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISAP11,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISNUC02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXCHISTSPCN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+WP-DC1_Replica,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+uswstsaplink02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschisiotedge,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISJUMP07,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP13,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSCERTSRV,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsaspendbp,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCIASAPPLUBE,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSCITRIX11,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_USTULSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USWSTSDAPHLX01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDENG03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSPKPYRPRD,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+LESQLDC01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USECOSFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USWSTSASPENSCM,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISFDLP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+granite_clone_USPGISFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISTAN12,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISDB01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDB02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSSO04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+VMFEDC01_New_ Put out of network_CTASK0062216,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISRAMQ02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsapsis01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISACDH,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiscourtest,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CHS-FP-1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsdsnowna01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPNARDS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiscorp01_new,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRSIW01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISVERTEXPRD,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSSMC01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschissapbro2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsediprd,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTHYC01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSANOV01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISJUMP20,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSMISYS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_MXWTCAEATON,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHIWIN10NA-TestMachine,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Suse12_Template,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+CPSAVPRD1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISJUMP08,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSINFOS05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSINFOS04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRAP7COL,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbcrpap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISEXTRANET,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISACDBD,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSIP2TRAIN,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSTKAP05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+usargslubeit,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+ESPT_test_linux,https://uschisvctr01.na.globalad.local:443/sdk,root,Authentication Passed
+GrainSmart,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+granite_clone_CHS-AC1-8_Do Not Power On,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+MXPPADIA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPRXYFSSO1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSDB01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTSPCN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_MXWTCSFS02,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISJUMP06,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISASPEN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISNUC10,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISGSTEST2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbcrpap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschipbnaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISRAPORC01,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+USCHISPCS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXCHISASPIP21,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SWEB01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRSJUMP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschipbcrpap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSPRXY01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOAPQ02,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISNUC03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISAZGW2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CRIA-SAG-8,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPNARDS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRAP7COL02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_USTULSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USPWISFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+granite_clone_USPWISTS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISWIN10VM01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+uschissapbro1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USRFGENQAT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uswstsprint01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SQLSERVERTEST1-18MAY2023,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSWSUS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPanoESX,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+Win_2019_Template_CHICAGO,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+uschisbapcap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISDLP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_USCHASFS01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISNUC08,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISRFGEN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CHS-AC1-8_New,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISTHYCPRD01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISRAMQ01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDENG01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPOSDB,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USBRWSAP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSAP02_Old,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+wsinsql_Retired in CMDB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USSSCSSPRT101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,https://uschisvctr01.na.globalad.local:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+USSSCSTS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+Win2K16_Template,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USARGSPRINT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASASPENWEB,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCIASPRINT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Win2019_Template_vanscoy,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+usbedsiotedge,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+WIN_2K16_TMP_1,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCIASJUMP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPSJSTS05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,https://uschisvctr01.na.globalad.local:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+MXDTCSWSUS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSPRINT02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSHMI102,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCIASTAPROOT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CALONSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Verdient-RDS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSDLP04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSCOLOS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CALONSEMPOWER,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USDROSPRINT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSLUBE01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASPRINT,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSCCURE01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSOptCon01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASTS12,https://uschisvctr01.na.globalad.local:443/sdk,,Error: Unknown Guest Family 
+MXMTYSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSSPC01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CACARSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSPRINT,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSYM2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Mxptlsts05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASWSUS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USINSASP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSENGR101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USSSCSHIST101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+MXPTLSTS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASBKMED1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CACARSAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSTS03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCIASDH01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASWSUS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSPRINT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASFS02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CACARELVIS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSDHCP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSASPENWEB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Calonsfs01_Restore,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USSSCSHMI101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USSSCSTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPPASFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSPRODX01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSSECSYS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSHAVER,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+CALONSMAGIC,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSETAP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSFTD101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSASASPEN,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSTS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USDROSAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSSRTPRINT,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+usargsmeridian,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USSSCSLUBE01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASASPWEB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASPI,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSAPOPL01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASAPP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSOEE,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+MXPSJSFS12,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CALONSASPEN_OLD - Do not power on - CHG0681363,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+nkcspc01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXDTCSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIAPVISION,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSHMI202,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+wsipoffice,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASASV01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBEDSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CRIA-FS2-8,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSETAP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSDBRIDGE,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPSJSDCNA10,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CAVANSCAMSYS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,https://uschisvctr01.na.globalad.local:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+USSSCSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPSJSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USDROSMWORKS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSDC101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+cacarswsus01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSSCCMDP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSMNTC101,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USSSCSECO01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Calonsfs01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+calonswsus01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USDROSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USARGCA4K01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USSSCSHMI201,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+CACARSASPEN01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USARGSDHCP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+wsappa,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+usargsiotedge,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+CAVANSASPCIMIO,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+MXPSJSTS03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USBRWSPRINT03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCIASSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASAPP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CRIA-FS1-8-NE,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USDROSMASS,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSASCEM,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-52cccb50-4dfc-4d98-9ded-4fc6472028f5,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSLEAPNA02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-69fb4ab8-bd6b-4dee-9230-4143e40152ee,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSTAP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSAP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSWSUS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_MXPPASTSAP01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHILNXJUMP1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqbsaap4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSCITRIX01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbnaap6,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISBKMST1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSCITRIX02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+UYMONNFEQ01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDT01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+uschisbsaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+vCLS-8e0ef1b5-d59f-40d0-bbdf-31226d357150,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISSFCORE2_old_do not Power On,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+BRSPOSAP24,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISAPHBKSTR1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISKOFAXAPP1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschivmwcgw1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqbsaap6,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSQLP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschitbsaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOSAP36,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqbapcap4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschisccure,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSSPDBP4,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSSQLP03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipenaap4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSAPPP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqbsaap5,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISPLM01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSHZXSRV01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqesaap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USIMPRVTAPRD02,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISPROXYFSSO,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipenaap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOSAP14,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipenaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschisaprout1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschipbnaap7,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uswstssecscan01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschitesaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSADFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USIMPRVTAPRD01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISJUMP21,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipenaap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+granite_clone_MXPTLSDBRIDGE,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+CPLIMSDB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSAP08,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISSANMGT02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISJUMP03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USWSTSAPMC01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+MXDTCSNOMDB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDCNA11,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISPAPP04,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSADCON,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISKWISYSLOG,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRMGAP05,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PELIMSTES01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-ec76b4cb-bf50-4fcc-a5c9-07d834e3914a,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschisshjump03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CRIA-SAG-80,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+RHELTest,https://uschisvctr01.na.globalad.local:443/sdk,root,Authentication Passed
+USCHISVCTR02,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISHCMF01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISAZGW,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqbsaap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISBKFRE,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uswststhycotic1_Decom_SNOW_CHG0059842,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+vCLS-1117b34c-33bf-4d50-ae01-921ce3c31c2a,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+Mxppasion01New,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSSPAPP3,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXPTLSFS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqbapcap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqbsaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISSFCORE3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqeapcap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USIMPRVTAPRD03,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqeapcap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqbapcap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSPAPP4,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISJUMP02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+USCHISSFCORE2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSPWFP3,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSEDICOM,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+uschiqbsaap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSCCMDP,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SGCOLSDEVRA01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+uschinfssrv1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSAPQCON01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSAP32,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSFCORE1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISSFCORE4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSGITHUB,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISPAPP03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSWAM01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSECAUTH2,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISFORCEPOINT03,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSAPFIX02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXDTCSNOM03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+MXDTCSCTX,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISFORCEPOINT02,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOAPP11,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipbcrpap4,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+MXDTCSLEN02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqeapcap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschispapp02,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipecrpap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+CRIA-DB210,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISNUC01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiteapcap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschitbsaap2,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+granite_clone_MXPPASTS03,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISSFCORE1_old_do not Power On,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USCHISVCTR01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschiqesaap3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISSASSO,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHISJUMP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,undefined    VMTool status: guestToolsNotRunning 
+uschiqbapcap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSECAUTH1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSAPHLX01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SGCOLSTGS01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISSCCM01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+uschipenaap5,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOAPP08,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISDT03-test,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Failed to authenticate with the guest operating system using the supplied credentials. 
+USARGSSFK,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+CPLIMSSIM,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+BRSPOSAP18,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSSPDBP3,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+granite_clone_MXPPASMG01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+MXDTCSLENDB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USWSTSAPARCH03,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISGSAPP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschitbapcap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOAPQ01,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+granite_clone_mxppasjsts01,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+USWSTSHZXAPP01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschissapdoc1,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschipecrpap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschipbcrpap5,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USCHIDBTEST,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Windows 2012 Template,https://uschisvctr01.na.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+vCLS-b2d3e951-16bf-40f5-8abf-7d27d137d38d,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschislogserver,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschispapp01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschiqesaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+vCLS-91f57067-b00a-4ea1-9341-9bde12a566c3,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSSPWFP4,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-4bed4806-de3c-4357-91fb-d278908b4bb1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+uschisgsprdb,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+uschisdrapp03,https://uschisvctr01.na.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+uschisesaap1,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+BRSPOSAP37,https://uschisvctr01.na.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+USWSTSINFOS11,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+ZZUATCAMCHI,https://uschisvctr01.na.globalad.local:443/sdk,root,Authentication Passed
+USCHISJUMP00,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISCSI01,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+USCHISASPWEB,https://uschisvctr01.na.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
