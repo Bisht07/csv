@@ -1,0 +1,55 @@
+VMName,vCenter Name,Service Account used,Result
+DEHAMS1XA01 (Avaya one-X Attendent),na,na,virtual Machine not Found
+DEHA1SN001 (HSP HR Archive Sys Lev 4 ),na,na,virtual Machine not Found
+DEHMSN03 (Sensorik EXP Lev 2),na,na,virtual Machine not Found
+SUSETESTHAM2,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Authentication Passed
+DEHAMSTS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSASPAPRM,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSNUC01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDBEM01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHMN001,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+Win_2019_Template,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+Dehamsiotedge,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DEHAMSASPWEB,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDB01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSPRXYFSSO1,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+SUSE15_HAMBURG_Template,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+ZZUAT31MLHA,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Authentication Passed
+DEHAMSJUMP01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDCEM11,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+EMEASTAGE01_Decom_TASK6274215,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+DEHAMSSCCMDP,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+DEHAMSFS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDIST01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDLP06,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSASPIP21,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk invocation failed with "java.net.SocketTimeoutException: Read timed out" 
+DEHAMSPROXYFSSO,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Timeout waiting for getting VM Guest Family on a running OS 
+DEHAMSRAP7COL,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSDCNA10,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSVCENTER02,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+DEHAMSTRUES02,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSTRUES01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSGENO01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSTABLEAUQA,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSAP02,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAMSADB01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+DEHAAPNME01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,A general system error occurred: vix error codes = 
+DEHAMSWSUS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+KENAISDCEM10,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+KENAISFS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+GBGOOSDCEM10,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+GBMANSFS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+GBMANSDCEM10,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,,Guest operations not ready on the VM. Please check the VMware tools installation
+GBMANSSCCMDP,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+GBGOOSFS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PKFAISEMS02,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-1086d7fb-ad99-4060-b152-700557ad48da,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+vCLS-2fbc298d-ec21-4085-9e79-d0468ab4b8b4,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+PKFAISEMS01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PKFAISSEP01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PKFAISDCEM10,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PKFAISDLP05,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+vCLS-a0d79ea9-a4fc-4fb8-9122-b9807263447f,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+vCLS-3580fc1e-c508-4374-9e36-bdc765d1f726,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,root,Failed to authenticate with the guest operating system using the supplied credentials. 
+PKFAISDIST01,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
+PKFAISSCCMDP,https://DEHAMSVCENTER02.emea.globalad.local:443/sdk,svc_nucleus_lcladm@na.globalad.local,Authentication Passed
